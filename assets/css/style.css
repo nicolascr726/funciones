@@ -1,0 +1,49 @@
+.containercolores{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.azul{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border: solid 1px;
+    border-color: transparent;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rojo{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: solid 1px;
+    border-color: transparent;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.verde{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border: solid 1px;
+    border-color: transparent;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.amarillo{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: solid 1px;
+    border-color: transparent;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
